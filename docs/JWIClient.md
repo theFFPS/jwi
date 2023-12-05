@@ -15,7 +15,7 @@ Security packet
 ```json
 {
   "function": "security",
-  "arguments": [$KEY]
+  "arguments": ["$KEY"]
 }
 ```
 ------
@@ -23,7 +23,7 @@ Security response
 ==================
 ```json
 {
-  "jwi_id": $JWI_ID
+  "jwi_id": "$JWI_ID"
 }
 ```
 ------
