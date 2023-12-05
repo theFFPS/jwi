@@ -1,2 +1,2 @@
 # jwi
-Java Web Interface is JNI via web sockets. 
+Java Web Interface is JNI alternative that uses web sockets. 
