@@ -6,6 +6,7 @@ JWIPacket example:
 ```json
 {
   "function": "PrintStream/println", 
+  "jwi_id": "$jwiID",
   "arguments": [
     "Hello World!"
   ]
