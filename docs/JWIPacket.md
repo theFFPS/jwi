@@ -15,4 +15,5 @@ JWIPacket example:
 JWIPacket fields
 ===================
 `function` is field that contains function to execute. 
+------
 `arguments` is field that contains arguments for `function`.
