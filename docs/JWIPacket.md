@@ -12,3 +12,4 @@ JWIPacket example:
 }
 ```
 ------
+JWIPacket fields
