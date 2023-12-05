@@ -9,6 +9,7 @@ Creating your own JWIClient
 4. Create parser for packets from JWIServer by parsing JSON.
 5. Send security packet with security key. 
 6. Parse security response.
+7. Save jwiID from response.
 ------
 Security packet
 ==================
