@@ -1,5 +1,6 @@
 # JWIClient
-Get [information about JWIPacket](https://github.com/theFFPS/jwi/blob/main/docs/JWIPacket.md)
+Get [information about
+------ JWIPacket](https://github.com/theFFPS/jwi/blob/main/docs/JWIPacket.md)
 Creating your own JWIClient
 ==================
 1. Create TCP client application
