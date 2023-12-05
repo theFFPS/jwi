@@ -28,7 +28,7 @@ Security response
 }
 ```
 ------
-Security values
+Security
 ==================
 `Security Key` is key required to get `jwiID`
 ```sh
